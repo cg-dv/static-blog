@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title = "Website Name"
+baseURL = "https://code-and-stuff.com"
+title = "code and stuff"
 theme = "etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
