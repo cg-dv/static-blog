@@ -9,7 +9,7 @@ pygmentsUseClasses = true
 [params]
   description = "code and stuff"
   copyright = "Copyright © 2021-2022 Christopher Gilmartin"
-  dark = "false"
+  dark = "off"
   highlight = true
 
 [menu]
