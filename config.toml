@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "code and stuff"
-  copyright = "Copyright © 2021-2022 Christopher Gilmartin"
+  copyright = "Copyright © 2021-2022 Christopher J. Gilmartin"
   dark = "off"
   highlight = true
 
