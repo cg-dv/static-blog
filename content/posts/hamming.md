@@ -10,8 +10,6 @@ tags = [
 ]
 +++
 
-# Richard Hamming - You and Your Research 
-
 
 One of my favorite academic talks is one given by Richard Hamming (1915 - 1998), titled "You and Your Research."
 
