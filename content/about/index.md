@@ -1,3 +1,5 @@
 # About
 
-This site is a small blog created with the web framework [Hugo](https://gohugo.io/).  It is styled with the [Hugo](https://gohugo.io/) [Etch](https://themes.gohugo.io/themes/etch/) theme.
+Hello!  My name is Chris.  I write software and occasionally write things here.  Currently I work mostly with cloud technologies ([AWS](https://aws.amazon.com) + [Terraform](https://www.terraform.io/)).  
+
+You can also find me on [GitHub](https://github.com/cg-dv/) or [LinkedIn](https://www.linkedin.com/in/christopher-gilmartin-58a499229).
