@@ -1,6 +1,6 @@
 +++
 author = "Chris Gilmartin"
-title = "Richard Hamming - You and Your Research"
+title = "Dr. Richard Hamming - You and Your Research"
 date = "2022-01-16"
 description = "Description and links to Richard Hamming talk"
 tags = [
